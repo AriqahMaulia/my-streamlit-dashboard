@@ -2,10 +2,14 @@
 
 # Setup Environment - Shell/Terminal
 - pip install virtualenv
-- mkdir proyek_analisis_data
-- cd proyek_analisis_data
-- python -m venv .env  #Membuat environment bernama .env
+- mkdir proyek_akhir
+- cd proyek_akhir
+
+# Membuat environment bernama .env
+- python -m venv .env  
 - .\.env\Scripts\activate  #pada powershell windows
+
+# Membuat Requirements
 - pip install -r requirements.txt
 
 # Untuk menonaktifkan virtual environment. Gunakan command:
